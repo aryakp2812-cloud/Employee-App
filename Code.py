@@ -10,7 +10,7 @@ def get_connection():
     return pymysql.connect(
         host='localhost',
         user='root',
-        password='arya1998',
+        password='******',
         database='employee_db'
     )
 
